@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+    {% include head.html %}
+    <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
+
+    {% if layout.info == 'partenaires' %}
+    partenaires
+    {%else if layout.info == 'programme' %}
+    programme
+    {%endif%}
+
+    {% include footer.html %}
+    {% include js.html %}
+    </body>
+</html>
