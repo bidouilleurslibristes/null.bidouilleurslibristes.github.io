@@ -327,10 +327,31 @@ a:focus {
     background-size: cover;
 }
 
+.retro-section {
+    width: 100%;
+    padding: 50px 0;
+    color: #fff;
+    background: url(/img/retro_gaming_bw.jpg);
+    background-color: {{ site.color.primary-dark }};
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
 .info-list {
     font-size: 20px;
 }
 
+.fake-section {
+    padding-top: 20px !important;
+    padding-bottom: 20px !important;
+}
+
+p {
+    font-size: 25px !important;
+}
 
 #map {
     width: 100%;
