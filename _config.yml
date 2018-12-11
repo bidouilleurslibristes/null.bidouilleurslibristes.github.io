@@ -1,11 +1,11 @@
 
 # Site settings
-title: Nuit Universitaire Ludique Libre
-email: abl-ca@univ-lille1.fr
+title: Festival Universitaire Ludique Libre
+email: abl@univ-lille.fr
 url: http://bidouilleurslibristes.github.io/
 description: "
-La Nuit Universitaire Ludique Libre <br> 25-26 mai - Cité Scientifique - Université de Lille
-<p>2 jours consacrés au(x) jeu(x) libre(s) ou indépendant(s), proposés par l'Association des Bidouilleurs Libristes. L'objectif de cette Nuit Universitaire Ludique Libre (dire la NULL !) est de promouvoir le « libre » au sens large par et/ou pour le(s) jeu(x).</p>"
+Le Festival Universitaire Ludique Libre <br> 2 Février 2019 - Cité Scientifique - Université de Lille
+<p>Une journée consacrée au(x) jeu(x) libre(s) ou indépendant(s), proposés par l'Association des Bidouilleurs Libristes. L'objectif est de promouvoir le « libre » au sens large par et/ou pour le(s) jeu(x).</p>"
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -16,11 +16,11 @@ color:
 footer: Bidouilleurs Libristes
 
 # # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-# social:
+social:
 #   - title: twitter
 #     url: https://twitter.com/SBootstrap
-#   - title: facebook
-#     url:
+- title: facebook
+     url:https://www.facebook.com/events/1167616406722612/
 #   - title: stack-overflow
 #     url: http://stackoverflow.com/questions/tagged/jekyll
 #   - title: bitbucket
